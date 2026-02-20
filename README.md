@@ -38,3 +38,4 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 **Motivação:** 
 - "Trabalhe muito, erre muito. Trabalhe pouco, erre pouco." by Alguem (1900)
 - "Quem não faz nada não erra, e quem não erra é promovido." by Outro alguem (1900)
+- "Quem ta triste não ta mais." by Lincoln "fnx" Lau, (2022)
