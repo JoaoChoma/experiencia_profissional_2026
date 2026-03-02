@@ -30,6 +30,11 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 - Engenharia de Software — 7º semestre **B**
 - Engenharia de Software — 7º semestre **C**
 
+## Diagramas
+
+https://mermaid.ai/
+
+
 ---
 
 **Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
