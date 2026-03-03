@@ -43,3 +43,5 @@ https://mermaid.ai/
 **Motivação:** 
 - "Trabalhe muito, erre muito. Trabalhe pouco, erre pouco." by Alguem (1900)
 - "Quem não faz nada não erra, e quem não erra é promovido." by Outro alguem (1900)
+- “Quem não mexe no código vive em paz com o bug.” by Beutrano (1900)
+- “Quem decide no achismo nunca perde tempo com dados.” by Ciclano (1900)
