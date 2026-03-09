@@ -34,6 +34,8 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 
 https://mermaid.ai/
 
+https://miro.com/
+- exemplo do diagrama gerado em SEMANA 04
 
 ---
 
