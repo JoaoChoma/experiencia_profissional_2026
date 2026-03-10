@@ -28,7 +28,7 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 
 - Engenharia de Software — 7º semestre **A**
 - Engenharia de Software — 7º semestre **B**
-- Engenharia de Software — 7º semestre **C**
+- Engenharia de Software — 7º semestre **C** - turma C
 
 ## Diagramas
 
