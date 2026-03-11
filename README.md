@@ -28,7 +28,14 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 
 - Engenharia de Software — 7º semestre **A**
 - Engenharia de Software — 7º semestre **B**
-- Engenharia de Software — 7º semestre **C**
+- Engenharia de Software — 7º semestre **C** - turma C
+
+## Diagramas
+
+https://mermaid.ai/
+
+https://miro.com/
+- exemplo do diagrama gerado em SEMANA 04
 
 ---
 
@@ -39,3 +46,5 @@ Repositório oficial para organização e acompanhamento da disciplina **Experi�
 - "Trabalhe muito, erre muito. Trabalhe pouco, erre pouco." by Alguem (1900)
 - "Quem não faz nada não erra, e quem não erra é promovido." by Outro alguem (1900)
 - "Quem ta triste não ta mais." by Lincoln "fnx" Lau, (2022)
+- “Quem não mexe no código vive em paz com o bug.” by Beutrano (1900)
+- “Quem decide no achismo nunca perde tempo com dados.” by Ciclano (1900)
