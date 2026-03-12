@@ -37,6 +37,11 @@ https://mermaid.ai/
 https://miro.com/
 - exemplo do diagrama gerado em SEMANA 04
 
+## Achei legal
+
+https://www.workana.com/
+
+
 ---
 
 **Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
