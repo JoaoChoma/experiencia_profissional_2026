@@ -1,6 +1,6 @@
 # Inicio do front end
 
-![Banner da disciplina](./assets/front.png)
+![Banner da disciplina](../../assets/front.png)
 
 ## frameworks - SPA
 
