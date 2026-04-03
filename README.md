@@ -2,10 +2,31 @@
 
 ## Avaliação 360
 
-**Atenção para regras**
+**Atenção às orientações abaixo:**
+- Todos devem responder ao formulário correspondente à sua própria turma. Caso o aluno responda em um formulário diferente, a resposta será desconsiderada e o grupo poderá ser penalizado;
+- Todos os alunos devem participar da Avaliação 360. A não realização da avaliação implicará penalização;
+- As respostas avaliarão características do integrante do grupo em uma escala de 0 a 10;
+- Respostas com padrão unânime de nota 0 ou 10 serão desconsideradas, e o grupo poderá ser penalizado;
+- A avaliação estará disponível para preenchimento até o dia 05, às 22h00.
 
-- Todos devem responder em suas respectivas turmas. Caso você, aluno, responda no formulário divergente da sua turma, sua resposta será desconsiderada e seu grupo será penalizado.
-- Todos os alunos que não responderem a avaliação 360 serão penalizados.
+Turma A - https://forms.gle/Ut1a5RaBoQXFvv5dA
+
+Turma B - https://forms.gle/WXADvEGJ7gR6kMRB8
+
+Turma C - https://forms.gle/9zJD8WrtGXk9NDJr7
+
+## Semana de avaliação bimestral 06 a 10 / 04
+
+Conforme orientado em sala a apresentação não será em sentido de palestra mas sim em uma auditória de entrega de resultados.
+
+Até a semana anterior realizamos em sala de aula a elabora de:
+- Sprint para elaboração da ideia do projeto
+- Sprint para construção de mapas mentais para auxiliar no processo de elicitação de requisitos
+- Sprint para definição de requisitos e regras de negócio
+- Sprint para construção do documento de casos de uso
+- Sprint para refinamento do documento de casos de uso e construção do diagrama de casos de uso
+- Sprint para implementação de interfaces gráficas baseadas nos casos de uso - uma interface gráfica por integrante do grupo
+- Sprint se houvesse tempo, iniciar a construção de diagramas de sequência
 
 
 
