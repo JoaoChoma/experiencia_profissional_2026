@@ -1,5 +1,14 @@
 # Experiência Profissional 2026 — Desenvolvimento de Aplicações
 
+## Avaliação 360
+
+**Atenção para regras**
+
+- Todos devem responder em suas respectivas turmas. Caso você, aluno, responda no formulário divergente da sua turma, sua resposta será desconsiderada e seu grupo será penalizado.
+- Todos os alunos que não responderem a avaliação 360 serão penalizados.
+
+
+
 ![Banner da disciplina](./assets/banner-experiencia-profissional-2026.png)
 
 Repositório oficial para organização e acompanhamento da disciplina **Experiência Profissional: Desenvolvimento de Aplicações** (2026), destinada às turmas de **Engenharia de Software — 7º semestre (A, B e C)**.
