@@ -1,6 +1,6 @@
 # Experiência Profissional 2026 — Desenvolvimento de Aplicações
 
-# Processo de avaliação 01
+# Processo de Avaliação 01
 
 ![Banner prova 01](./assets/prova01.png)
 ---
@@ -8,10 +8,10 @@
 ## Avaliação 360 (3,0 pontos)
 
 **Atenção às orientações abaixo:**
-- Todos devem responder ao formulário correspondente à sua própria turma. Caso o aluno responda em um formulário diferente, a resposta será desconsiderada e o grupo poderá ser penalizado;
+- Todos devem responder ao formulário correspondente à sua própria turma. Caso o aluno responda em um formulário diferente, a resposta será desconsiderada e o grupo será penalizado;
 - Todos os alunos devem participar da Avaliação 360. A não realização da avaliação implicará penalização do integrante;
 - As respostas avaliarão características do integrante do grupo em uma escala de 0 a 10;
-- Respostas com padrão unânime de nota 0 ou 10 serão desconsideradas, e o grupo poderá ser penalizado;
+- Respostas com padrão unânime de nota 0 ou 10 serão desconsideradas, e o grupo será penalizado;
 - A avaliação estará disponível para preenchimento até o dia 05/04, às 22h00.
 
 Turma A - https://forms.gle/Ut1a5RaBoQXFvv5dA
@@ -19,6 +19,12 @@ Turma A - https://forms.gle/Ut1a5RaBoQXFvv5dA
 Turma B - https://forms.gle/WXADvEGJ7gR6kMRB8
 
 Turma C - https://forms.gle/9zJD8WrtGXk9NDJr7
+
+**Como será realizado o cálculo?**
+- Será calculada a média das notas atribuídas a cada integrante do grupo;
+- A maior média obtida entre os integrantes será utilizada como referência para a normalização;
+- As notas finais serão definidas com base nessa normalização.
+
 
 ---
 
@@ -51,6 +57,7 @@ O grupo deverá apresentar:
 - **Diagramas de sequência**, caso já tenham sido desenvolvidos.
 
 ### O que deverá ser entregue (2,0 pontos)
+
 - **Documento de requisitos**, em formato PDF. Caso o material tenha sido elaborado em .md, .docx ou até mesmo em papel, ele deverá ser convertido para PDF antes do envio;
 - **Documento e diagrama de casos de uso**, ambos em formato PDF;
 - **Resumo das atividades** do grupo, contendo:
