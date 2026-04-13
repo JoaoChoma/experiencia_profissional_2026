@@ -2,6 +2,22 @@
 
 # Processo de Avaliação 01
 
+### O que deverá ser entregue (2,0 pontos)
+
+- **Documento de requisitos**, em formato PDF. Caso o material tenha sido elaborado em .md, .docx ou até mesmo em papel, ele deverá ser convertido para PDF antes do envio;
+- **Documento e diagrama de casos de uso**, ambos em formato PDF;
+- **Resumo das atividades** do grupo, contendo:
+    - quantidade total de tarefas registradas;
+    - quantidade de tarefas concluídas;
+    - quantidade de tarefas concluídas por cada integrante do grupo.
+
+# Onde entregar?
+
+https://forms.gle/VaK7rz3VhUwCmd1G8
+
+---
+
+
 ![Banner prova 01](./assets/prova01.png)
 ---
 
@@ -55,15 +71,6 @@ O grupo deverá apresentar:
 - **Documento e diagrama** de casos de uso;
 - **Interfaces gráficas**, com apresentação do código e da visualização das telas **(podem ser utilizados prints, mas interfaces apresentadas apenas no Figma não serão aceitas)**;
 - **Diagramas de sequência**, caso já tenham sido desenvolvidos.
-
-### O que deverá ser entregue (2,0 pontos)
-
-- **Documento de requisitos**, em formato PDF. Caso o material tenha sido elaborado em .md, .docx ou até mesmo em papel, ele deverá ser convertido para PDF antes do envio;
-- **Documento e diagrama de casos de uso**, ambos em formato PDF;
-- **Resumo das atividades** do grupo, contendo:
-    - quantidade total de tarefas registradas;
-    - quantidade de tarefas concluídas;
-    - quantidade de tarefas concluídas por cada integrante do grupo.
 
 ---
 
