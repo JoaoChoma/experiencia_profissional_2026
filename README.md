@@ -1,19 +1,58 @@
 # Experiência Profissional 2026 — Desenvolvimento de Aplicações
 
-# Processo de Avaliação 01
+**Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
 
-### O que deverá ser entregue (2,0 pontos)
+![Banner da disciplina](./assets/banner-experiencia-profissional-2026.png)
 
-- **Documento de requisitos**, em formato PDF. Caso o material tenha sido elaborado em .md, .docx ou até mesmo em papel, ele deverá ser convertido para PDF antes do envio;
-- **Documento e diagrama de casos de uso**, ambos em formato PDF;
-- **Resumo das atividades** do grupo, contendo:
-    - quantidade total de tarefas registradas;
-    - quantidade de tarefas concluídas;
-    - quantidade de tarefas concluídas por cada integrante do grupo.
+Repositório oficial para organização e acompanhamento da disciplina **Experiência Profissional: Desenvolvimento de Aplicações** (2026), destinada às turmas de **Engenharia de Software — 7º semestre (A, B e C)**.
 
-# Onde entregar?
+## Objetivos
 
-https://forms.gle/VaK7rz3VhUwCmd1G8
+- Centralizar materiais, roteiros e entregas da disciplina.
+- Padronizar orientações, prazos e critérios de avaliação.
+- Facilitar a comunicação e o acompanhamento do progresso das equipes.
+
+## Estrutura do repositório
+
+
+- `aulas/` — slides, roteiros e materiais de apoio
+- `atividades/` — enunciados, rubricas e exemplos
+- `assets/` — imagens e recursos visuais (ex.: banner do README)
+- `artefatos_1_bimestre/` - artefatos gerados, por cada grupo, na primeira etapa da disciplina: documento de requisitos, documento de casos de uso, diagrama de casos de uso, interfaces gráficas de casos de uso selecionados pelos alunos
+- `Segundo Bimestre - Segunda etapa` - um modelo de organização para o [segundo bimestre](segunda_etapa.md) foi elaborado como sugestão para o desenvolvimento das tarefas. 
+
+## Como usar
+
+1. Consulte os materiais e avisos na seção **aulas**.
+2. Para cada atividade/projeto, verifique o enunciado, critérios e prazos em **atividades**.
+3. Submeta entregas seguindo o padrão definido para sua turma/equipe.
+
+## Turmas
+
+- Engenharia de Software — 7º semestre **A**
+- Engenharia de Software — 7º semestre **B**
+- Engenharia de Software — 7º semestre **C**
+
+## Diagramas
+
+https://mermaid.ai/
+
+https://miro.com/
+- exemplo do diagrama gerado em SEMANA 04
+
+## Achei legal
+
+https://www.workana.com/
+
+---
+
+
+
+**Motivação:** 
+- "Trabalhe muito, erre muito. Trabalhe pouco, erre pouco." by Alguem (1900)
+- "Quem não faz nada não erra, e quem não erra é promovido." by Outro alguem (1900)
+- “Quem não mexe no código vive em paz com o bug.” by Beutrano (1900)
+- “Quem decide no achismo nunca perde tempo com dados.” by Ciclano (1900)
 
 ---
 
@@ -74,55 +113,21 @@ O grupo deverá apresentar:
 
 ---
 
-![Banner da disciplina](./assets/banner-experiencia-profissional-2026.png)
+# Processo de Avaliação 01
 
-Repositório oficial para organização e acompanhamento da disciplina **Experiência Profissional: Desenvolvimento de Aplicações** (2026), destinada às turmas de **Engenharia de Software — 7º semestre (A, B e C)**.
+### O que deverá ser entregue (2,0 pontos)
 
-## Objetivos
+- **Documento de requisitos**, em formato PDF. Caso o material tenha sido elaborado em .md, .docx ou até mesmo em papel, ele deverá ser convertido para PDF antes do envio;
+- **Documento e diagrama de casos de uso**, ambos em formato PDF;
+- **Resumo das atividades** do grupo, contendo:
+    - quantidade total de tarefas registradas;
+    - quantidade de tarefas concluídas;
+    - quantidade de tarefas concluídas por cada integrante do grupo.
 
-- Centralizar materiais, roteiros e entregas da disciplina.
-- Padronizar orientações, prazos e critérios de avaliação.
-- Facilitar a comunicação e o acompanhamento do progresso das equipes.
+# Onde entregar?
 
-## Estrutura do repositório
-
-> Ajuste os nomes/estruturas conforme a evolução do semestre.
-
-- `aulas/` — slides, roteiros e materiais de apoio
-- `atividades/` — enunciados, rubricas e exemplos
-- `assets/` — imagens e recursos visuais (ex.: banner do README)
-
-## Como usar
-
-1. Consulte os materiais e avisos na seção **aulas**.
-2. Para cada atividade/projeto, verifique o enunciado, critérios e prazos em **atividades**.
-3. Submeta entregas seguindo o padrão definido para sua turma/equipe.
-
-## Turmas
-
-- Engenharia de Software — 7º semestre **A**
-- Engenharia de Software — 7º semestre **B**
-- Engenharia de Software — 7º semestre **C** - turma C
-
-## Diagramas
-
-https://mermaid.ai/
-
-https://miro.com/
-- exemplo do diagrama gerado em SEMANA 04
-
-## Achei legal
-
-https://www.workana.com/
-
+https://forms.gle/VaK7rz3VhUwCmd1G8
 
 ---
 
-**Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
 
-
-**Motivação:** 
-- "Trabalhe muito, erre muito. Trabalhe pouco, erre pouco." by Alguem (1900)
-- "Quem não faz nada não erra, e quem não erra é promovido." by Outro alguem (1900)
-- “Quem não mexe no código vive em paz com o bug.” by Beutrano (1900)
-- “Quem decide no achismo nunca perde tempo com dados.” by Ciclano (1900)
