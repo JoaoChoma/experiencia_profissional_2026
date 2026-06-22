@@ -2,6 +2,27 @@
 
 **Disciplina:** Experiência Profissional: Desenvolvimento de Aplicações (2026)
 
+---
+
+Fala, galera!
+
+Segue o formulário para vocês encaminharem os links dos repositórios trabalhados no segundo bimestre.
+
+https://forms.gle/zcDG6zSi34EVaAa66
+
+Atenção: esses materiais serão utilizados para compor a divulgação dos resultados gerais da disciplina. Por isso, solicito que vocês organizem os repositórios observando as orientações abaixo:
+
+1. Preferencialmente, encaminhem os documentos e diagramas em formato PDF.
+2. Informem a quantidade total de tarefas definidas e executadas pelo grupo.
+3. Informem a quantidade de tarefas atribuídas e executadas por cada integrante do grupo.
+4. Indiquem o caso de uso que está funcionando de ponta a ponta e incluam prints das telas que demonstrem o fluxo.
+
+Também quero registrar que vocês apresentaram um crescimento e um amadurecimento elogiáveis ao longo desses dois bimestres. Muitos de vocês partiram praticamente do zero e chegaram a projetos de produto factíveis, aplicáveis e com potencial de continuidade. Sempre há espaço para melhoria e crescimento, mas, aos meus olhos, vocês evoluíram profissionalmente.
+
+Conto com a colaboração de todos nessa última atividade.
+
+---
+
 ![Banner da disciplina](./assets/banner-experiencia-profissional-2026.png)
 
 Repositório oficial para organização e acompanhamento da disciplina **Experiência Profissional: Desenvolvimento de Aplicações** (2026), destinada às turmas de **Engenharia de Software — 7º semestre (A, B e C)**.
